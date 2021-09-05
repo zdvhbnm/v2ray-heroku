@@ -20,7 +20,7 @@
 
 本镜像仅 6 MB，比起其他用于 Heroku 的 V2Ray 镜像，不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/abailey93/v2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/zdvhbnm)
 
 ## ENV 设定
 
